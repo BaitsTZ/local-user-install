@@ -12,7 +12,7 @@ See `LICENSE` for full license terms.
 
 Welcome to Local Install!
 
-To use the scripts, I suggest making a bootable USB using rufus with the basic options. Add the 2 scripts to the root of the USB and you are done!
+To use the scripts, I suggest making a bootable USB using rufus with the basic options. Add the 2 scripts (Start.bat & autounattend.xml) to the root of the USB and you are done!
 
 It will skip the windows setup and OOBE. The user only needs to fill in login credentials for the admin account and the rest will be done on its own.
 
